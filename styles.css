@@ -49,6 +49,15 @@ h2 {
     font-size: 30px;
 }
 
+section {
+    padding-left: 10px;
+}
+
+.content {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
 aside {
     background-color: #d9b38c;
     background-image: url("chair.jpg");
@@ -65,4 +74,15 @@ aside {
     font-size: 30px;
     color: #ffffff;
     padding: 70px 50px;
+}
+
+.product {
+    float: left;
+    box-sizing: border-box;
+    width: 33.3%;
+}
+
+input,textarea {
+    font-size: 20px;
+    font-family: sans-serif;
 }
