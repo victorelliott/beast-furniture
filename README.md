@@ -1,2 +1,2 @@
-# comp20-assignment2
-Website for a fictional business called Beast Furniture.
+# beast-furniture
+Website for a fictional business called Beast Furniture. Uses basic HTML and CSS.
